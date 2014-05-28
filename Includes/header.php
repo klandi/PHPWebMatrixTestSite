@@ -3,7 +3,7 @@
 <html lang="en">
     <head>
         <meta charset="utf-8" />
-        <title>My Site's Title</title>
+        <title>Mindshare Worldwide</title>
         <link href="/Styles/Site.css" rel="stylesheet" type="text/css" />
         <meta name="viewport" content="width=device-width, initial-scale=1"> 
 
@@ -14,7 +14,7 @@
         <header>
             <div class="content-wrapper">
                 <div class="float-left">
-                    <p class="site-title"><a href="/index.php">My Site</a></p>
+                    <p class="site-title"><a href="/index.php">Mindshare</a></p>
                 </div>
                 <div class="float-right">
                     <section id="login">
